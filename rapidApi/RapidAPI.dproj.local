@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/12 17:40:14.000.390,=C:\Users\YAN\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/09 15:14:01.000.480,=C:\Users\YAN\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/30 00:13:07.000.839,=C:\Users\YAN\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2021/11/30 00:13:14.000.706,=C:\Users\YAN\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/02/12 19:24:16.000.417,=C:\Users\YAN\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/12 16:48:14.000.100,=C:\Users\YAN\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/05/01 21:23:23.000.898,=C:\Users\YAN\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/04 18:19:43.000.962,=C:\Users\YAN\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/25 23:04:31.000.345,=C:\Users\YAN\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/31 17:02:02.000.836,E:\DELPHI\MOBILE\rapidApi\RapidAPI.dproj=C:\Users\YAN\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/07/31 19:46:41.000.846,=E:\DELPHI\MOBILE\rapidApi\Converters.pas</Transaction>
+    <Transaction>2022/07/31 19:46:42.000.030,=E:\DELPHI\MOBILE\rapidApi\Writers.pas</Transaction>
+    <Transaction>2022/07/31 20:06:36.000.960,E:\DELPHI\MOBILE\rapidApi\Converters.pas=</Transaction>
+    <Transaction>2022/07/31 20:06:56.000.289,E:\DELPHI\MOBILE\rapidApi\Writers.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
